@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.product-list{
+    margin: 40px;
+}
+
+.product-item{
+    margin: 40px;
+}
+
+.nav{
+    color: #fff;
+    background-color: #000;
+}
+
